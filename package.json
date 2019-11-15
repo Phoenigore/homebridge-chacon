@@ -1,23 +1,36 @@
 {
-    "name": "homebridge-chacon",
-    "version": "0.0.1",
-    "description": "RF (433MHz) Chacon / Dio remote control plugin for homebridge: https://github.com/nfarina/homebridge",
-    "license": "(MIT OR ISC)",
-    "keywords": [
-        "homebridge-plugin", "433", "433MHz", "Raspberry", "Pi", "rf", "chacon", "DIO"
-    ],
-    "engines": {
-        "node": ">=0.12.0",
-        "homebridge": ">=0.2.0"
-    },
-    "author": {
-        "name": "phoenigore"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git://github.com/wstameris/homebridge-rfchacon"
-    },
-    "dependencies": {
-        "limiter": "1.x"
-    }
+  "name": "homebridge-rfchacon",
+  "version": "0.0.1",
+  "description": "RF (433MHz) Chacon / Dio remote control plugin for homebridge: https://github.com/nfarina/homebridge",
+  "license": "(MIT OR ISC)",
+  "keywords": [
+    "homebridge-plugin",
+    "433",
+    "433MHz",
+    "Raspberry",
+    "Pi",
+    "rf",
+    "chacon",
+    "DIO"
+  ],
+  "engines": {
+    "node": ">=0.12.0",
+    "homebridge": ">=0.2.0"
+  },
+  "author": "phoenigore",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/phoenigore/homebridge-rfchacon.git"
+  },
+  "dependencies": {
+    "limiter": "1.x"
+  },
+  "bugs": {
+    "url": "https://github.com/phoenigore/homebridge-rfchacon/issues"
+  },
+  "homepage": "https://github.com/phoenigore/homebridge-rfchacon#readme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
