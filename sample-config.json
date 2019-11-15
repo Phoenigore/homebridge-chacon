@@ -11,15 +11,14 @@
     "platforms": [],
 
     "accessories": [{
-        "accessory": "RFOutlet",
-        "name": "Window Fan",
-        "type": "Fan",
-        "manufacturer": "Lasko",
-        "model": "Weather Shield Box Fan",
+        "accessory": "RFChacon",
+        "name": "TV Switch",
+        "type": "Switch",
+        "manufacturer": "Orno",
+        "model": "SH 1704",
         "serial": " ",
-        "rf_on": 4480259,
-        "rf_off": 4480268,
-        "pulselength": "",
-        "pin": ""
+        "pin": "0",
+        "module_id" : "12325261",
+        "outlet_code" : 1
     }]
 }

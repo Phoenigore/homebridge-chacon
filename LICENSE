@@ -1,7 +1,7 @@
 ---
 
-homebridge-rfoutlets is based on homebridge-cmd
-homebridge-cmd: https://github.com/senyoltw/homebridge-cmd
+homebridge-rfchacon is based on homebridge-rfoutlets
+homebridge-cmd: https://github.com/trentrand/homebridge-rf-outlet
 Distributed with modifications under the terms of the Apache License
 
 ---
