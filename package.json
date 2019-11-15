@@ -20,15 +20,15 @@
   "author": "phoenigore",
   "repository": {
     "type": "git",
-    "url": "git://github.com/phoenigore/homebridge-rfchacon.git"
+    "url": "git://github.com/phoenigore/homebridge-chacon.git"
   },
   "dependencies": {
     "limiter": "1.x"
   },
   "bugs": {
-    "url": "https://github.com/phoenigore/homebridge-rfchacon/issues"
+    "url": "https://github.com/phoenigore/homebridge-chacon/issues"
   },
-  "homepage": "https://github.com/phoenigore/homebridge-rfchacon#readme",
+  "homepage": "https://github.com/phoenigore/homebridge-rhacon#readme",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
