@@ -1,6 +1,6 @@
 # homebridge-rf-chacon-dio
 
-Homebridge plugin purpose-built for controlling 433MHz radio frequency outlets, using chacon / dio protocol, which can be purchased inexpensively. (i.e. [these](https://www.amazon.com/Etekcity-Wireless-Electrical-Household-Appliances/dp/B00DQELHBS "Etekcity Wireless Outlets")). Homebridge maintains state information, so you can always know if you left that lamp on.
+Homebridge plugin purpose-built for controlling 433MHz radio frequency outlets, using chacon / dio protocol, which can be purchased inexpensively. (i.e. [these](https://www.amazon.fr/Prise-Télécommandée-OFF-3500W-Chacon/dp/B00938JOFC/ref=sr_1_2?__mk_fr_FR=ÅMÅŽÕÑ&keywords=di-o&qid=1573892737&sr=8-2 "DI-O - Chacon 54785")). Homebridge maintains state information, so you can always know if you left that lamp on.
 
 Tested on a Raspberry Pi Zero running Raspbian (Debian) and Node.js v6.9.0. This should work on most Raspberry Pi models, however YMMV
 
