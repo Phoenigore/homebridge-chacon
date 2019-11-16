@@ -1,5 +1,5 @@
 {
-  "name": "homebridge-rfchacon",
+  "name": "homebridge-rf-chacon-dio",
   "version": "0.0.1",
   "description": "RF (433MHz) Chacon / Dio remote control plugin for homebridge: https://github.com/nfarina/homebridge",
   "license": "(MIT OR ISC)",
@@ -20,15 +20,15 @@
   "author": "phoenigore",
   "repository": {
     "type": "git",
-    "url": "git://github.com/phoenigore/homebridge-chacon.git"
+    "url": "git://github.com/phoenigore/homebridge-rf-chacon-dio.git"
   },
   "dependencies": {
     "limiter": "1.x"
   },
   "bugs": {
-    "url": "https://github.com/phoenigore/homebridge-chacon/issues"
+    "url": "https://github.com/phoenigore/homebridge-rf-chacon-dio/issues"
   },
-  "homepage": "https://github.com/phoenigore/homebridge-rhacon#readme",
+  "homepage": "https://github.com/phoenigore/homebridge-rf-chacon-dio#readme",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

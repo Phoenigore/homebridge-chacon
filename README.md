@@ -1,4 +1,4 @@
-# homebridge-rfchacon
+# homebridge-rf-chacon-dio
 
 Homebridge plugin purpose-built for controlling 433MHz radio frequency outlets, using chacon / dio protocol, which can be purchased inexpensively. (i.e. [these](https://www.amazon.com/Etekcity-Wireless-Electrical-Household-Appliances/dp/B00DQELHBS "Etekcity Wireless Outlets")). Homebridge maintains state information, so you can always know if you left that lamp on.
 
@@ -12,7 +12,7 @@ Supports *lights*, *switches*, and *fans*
 `sudo npm install -g homebridge`
 
 - Install homebridge-rfoutlets  
-`sudo npm install -g homebridge-rfchacon`
+`sudo npm install -g homebridge-rf-chacon-dio`
 
 - Update your homebridge configuration
 
